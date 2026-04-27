@@ -1,4 +1,4 @@
-# capsnet-keras-jupyter-notebook
+# capsnet-keras-notebook
 Jupyter notebook simplified version of https://github.com/XifengGuo/CapsNet-Keras implementing the the paper:   
 [Sara Sabour, Nicholas Frosst, Geoffrey E Hinton. Dynamic Routing Between Capsules. NIPS 2017](https://arxiv.org/abs/1710.09829)   
 
